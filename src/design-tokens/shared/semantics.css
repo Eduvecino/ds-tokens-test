@@ -1,0 +1,273 @@
+:root {
+  --ds-color-surface-campaign-brand: var(--ds-color-liminal-60);
+  --ds-color-surface-campaign-arona: var(--ds-color-utility-deep-teal);
+  --ds-color-surface-campaign-ateca: var(--ds-color-utility-midnight-purple);
+  --ds-color-surface-campaign-ibiza: var(--ds-color-utility-deep-navy);
+  --ds-color-surface-campaign-leon: var(--ds-color-utility-obsidian-blue);
+  --ds-color-surface-campaign-leon-hybrid: var(--ds-color-utility-forest-green);
+  --ds-color-surface-campaign-leon-sportstourer: var(--ds-color-utility-midnight-blue);
+  --ds-color-text-campaign-brand: var(--ds-color-nevada-white-150);
+  --ds-color-text-campaign-arona: var(--ds-color-utility-aqua-bright);
+  --ds-color-text-campaign-ateca: var(--ds-color-utility-lilac-glow);
+  --ds-color-text-campaign-ibiza: var(--ds-color-utility-cherry);
+  --ds-color-text-campaign-leon: var(--ds-color-utility-vivid-lime);
+  --ds-color-text-campaign-leon-hybrid: var(--ds-color-utility-vivid-lime);
+  --ds-color-text-campaign-leon-sportstourer: var(--ds-color-utility-electric-mint);
+  --ds-border-radius-none: var(--ds-border-radius-00);
+  --ds-border-radius-xxs: var(--ds-border-radius-04);
+  --ds-border-radius-xs: var(--ds-border-radius-06);
+  --ds-border-radius-s: var(--ds-border-radius-08);
+  --ds-border-radius-m: var(--ds-border-radius-12);
+  --ds-border-radius-l: var(--ds-border-radius-20);
+  --ds-border-radius-xl: var(--ds-border-radius-24);
+  --ds-border-radius-full: var(--ds-border-radius-100000);
+  --ds-border-width-s: var(--ds-border-width-00);
+  --ds-border-width-m: var(--ds-border-width-01);
+  --ds-border-width-l: var(--ds-border-width-02);
+  --ds-spacing-s-1: var(--ds-spacing-00);
+  --ds-spacing-s-2: var(--ds-spacing-02);
+  --ds-spacing-s-3: var(--ds-spacing-04);
+  --ds-spacing-s-4: var(--ds-spacing-06);
+  --ds-spacing-s-5: var(--ds-spacing-08);
+  --ds-spacing-m-1: var(--ds-spacing-12);
+  --ds-spacing-m-2: var(--ds-spacing-16);
+  --ds-spacing-m-3: var(--ds-spacing-20);
+  --ds-spacing-m-4: var(--ds-spacing-24);
+  --ds-spacing-l-1: var(--ds-spacing-32);
+  --ds-spacing-l-2: var(--ds-spacing-40);
+  --ds-spacing-l-3: var(--ds-spacing-48);
+  --ds-spacing-l-4: var(--ds-spacing-56);
+  --ds-spacing-l-5: var(--ds-spacing-64);
+  --ds-spacing-l-6: var(--ds-spacing-72);
+  --ds-spacing-l-7: var(--ds-spacing-80);
+  --ds-spacing-l-8: var(--ds-spacing-88);
+  --ds-spacing-l-9: var(--ds-spacing-96);
+}
+
+@media (min-width: 320px) {
+  :root {
+    --ds-layout-width: 320px;
+    --ds-layout-min-width: 320px;
+    --ds-layout-max-width: 479px;
+    --ds-layout-columns: var(--ds-sizing-02);
+    --ds-layout-gutter: var(--ds-spacing-m-2);
+    --ds-layout-margin: var(--ds-spacing-m-2);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-xs);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-xs);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-xs);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-xs);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-xs);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-xs);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-xs);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-xs);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-xs);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-xs);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-xs);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-xs);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-xs);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-xs);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-xs);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-xs);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-xs);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-xs);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-xs);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-xs);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-xs);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-xs);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-xs);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-xs);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
+
+@media (min-width: 480px) {
+  :root {
+    --ds-layout-width: 480px;
+    --ds-layout-min-width: 480px;
+    --ds-layout-max-width: 767px;
+    --ds-layout-columns: var(--ds-sizing-04);
+    --ds-layout-gutter: var(--ds-spacing-m-4);
+    --ds-layout-margin: var(--ds-spacing-m-4);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-s);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-s);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-s);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-s);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-s);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-s);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-s);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-s);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-s);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-s);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-s);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-s);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-s);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-s);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-s);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-s);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-s);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-s);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-s);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-s);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-s);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-s);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-s);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-s);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
+
+@media (min-width: 768px) {
+  :root {
+    --ds-layout-width: 768px;
+    --ds-layout-min-width: 768px;
+    --ds-layout-max-width: 1023px;
+    --ds-layout-columns: var(--ds-sizing-06);
+    --ds-layout-gutter: var(--ds-spacing-l-1);
+    --ds-layout-margin: var(--ds-spacing-l-1);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-m);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-m);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-m);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-m);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-m);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-m);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-m);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-m);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-m);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-m);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-m);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-m);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-m);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-m);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-m);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-m);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-m);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-m);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-m);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-m);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-m);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-m);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-m);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-m);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --ds-layout-width: 1024px;
+    --ds-layout-min-width: 1024px;
+    --ds-layout-max-width: 1439px;
+    --ds-layout-columns: var(--ds-sizing-12);
+    --ds-layout-gutter: var(--ds-spacing-l-1);
+    --ds-layout-margin: var(--ds-spacing-l-1);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-l);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-l);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-l);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-l);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-l);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-l);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-l);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-l);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-l);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-l);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-l);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-l);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-l);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-l);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-l);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-l);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-l);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-l);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-l);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-l);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-l);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-l);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-l);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-l);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --ds-layout-width: 1440px;
+    --ds-layout-min-width: 1440px;
+    --ds-layout-max-width: 1919px;
+    --ds-layout-columns: var(--ds-sizing-12);
+    --ds-layout-gutter: var(--ds-spacing-l-1);
+    --ds-layout-margin: var(--ds-spacing-l-2);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-xl);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-xl);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-xl);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-xl);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-xl);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-xl);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-xl);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-xl);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-xl);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-xl);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-xl);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-xl);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-xl);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-xl);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-xl);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-xl);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-xl);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-xl);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-xl);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-xl);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-xl);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-xl);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-xl);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-xl);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
+
+@media (min-width: 1920px) {
+  :root {
+    --ds-layout-width: 1920px;
+    --ds-layout-min-width: 1920px;
+    --ds-layout-max-width: 100000px;
+    --ds-layout-columns: var(--ds-sizing-12);
+    --ds-layout-gutter: var(--ds-spacing-l-3);
+    --ds-layout-margin: var(--ds-spacing-l-3);
+    --ds-typography-size-display-l: var(--ds-typography-size-display-l-viewport-xxl);
+    --ds-typography-size-display-m: var(--ds-typography-size-display-m-viewport-xxl);
+    --ds-typography-size-headline-xl: var(--ds-typography-size-headline-xl-viewport-xxl);
+    --ds-typography-size-headline-l: var(--ds-typography-size-headline-l-viewport-xxl);
+    --ds-typography-size-headline-m: var(--ds-typography-size-headline-m-viewport-xxl);
+    --ds-typography-size-headline-s: var(--ds-typography-size-headline-s-viewport-xxl);
+    --ds-typography-size-headline-xs: var(--ds-typography-size-headline-xs-viewport-xxl);
+    --ds-typography-size-headline-xxs: var(--ds-typography-size-headline-xxs-viewport-xxl);
+    --ds-typography-size-body-l: var(--ds-typography-size-body-l-viewport-xxl);
+    --ds-typography-size-body-m: var(--ds-typography-size-body-m-viewport-xxl);
+    --ds-typography-size-body-s: var(--ds-typography-size-body-s-viewport-xxl);
+    --ds-typography-size-body-xs: var(--ds-typography-size-body-xs-viewport-xxl);
+    --ds-typography-height-display-l: var(--ds-typography-height-display-l-viewport-xxl);
+    --ds-typography-height-display-m: var(--ds-typography-height-display-m-viewport-xxl);
+    --ds-typography-height-headline-xl: var(--ds-typography-height-headline-xl-viewport-xxl);
+    --ds-typography-height-headline-l: var(--ds-typography-height-headline-l-viewport-xxl);
+    --ds-typography-height-headline-m: var(--ds-typography-height-headline-m-viewport-xxl);
+    --ds-typography-height-headline-s: var(--ds-typography-height-headline-s-viewport-xxl);
+    --ds-typography-height-headline-xs: var(--ds-typography-height-headline-xs-viewport-xxl);
+    --ds-typography-height-headline-xxs: var(--ds-typography-height-headline-xxs-viewport-xxl);
+    --ds-typography-height-body-l: var(--ds-typography-height-body-l-viewport-xxl);
+    --ds-typography-height-body-m: var(--ds-typography-height-body-m-viewport-xxl);
+    --ds-typography-height-body-s: var(--ds-typography-height-body-s-viewport-xxl);
+    --ds-typography-height-body-xs: var(--ds-typography-height-body-xs-viewport-xxl);
+    --ds-typography-letter-spacing-expanded: var(--ds-typography-letter-spacing-l);
+    --ds-typography-letter-spacing-base: var(--ds-typography-letter-spacing-m);
+    --ds-typography-letter-spacing-condensed: var(--ds-typography-letter-spacing-s);
+  }
+}
