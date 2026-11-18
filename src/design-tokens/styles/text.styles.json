@@ -1,0 +1,1160 @@
+{
+  "ds": {
+    "font": {
+      "display-l": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.display-l}",
+            "fontWeight": "{ds.typography.weight.display.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.expanded}",
+            "lineHeight": "{ds.typography.height.display-l}",
+            "textTransform": "uppercase",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "display-m": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.display-m}",
+            "fontWeight": "{ds.typography.weight.display.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.expanded}",
+            "lineHeight": "{ds.typography.height.display-m}",
+            "textTransform": "uppercase",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-xl": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xl}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-xl}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xl}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-xl}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-l": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-l}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-l}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-l}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-l}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-m": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-m}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-m}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-m}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-m}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-s": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-s}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-s}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-s}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-s}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-xs": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xs}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-xs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xs}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.headline-xs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "headline-xxs": {
+        "primary": {
+          "$type": "typography",
+          "$description": "light / black",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xxs}",
+            "fontWeight": "{ds.typography.weight.headline.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.m}",
+            "lineHeight": "{ds.typography.height.headline-xxs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "regular / bold",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.headline-xxs}",
+            "fontWeight": "{ds.typography.weight.headline.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.m}",
+            "lineHeight": "{ds.typography.height.headline-xxs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        }
+      },
+      "body-l": {
+        "primary": {
+          "$type": "typography",
+          "$description": "regular / regular",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-l}",
+            "fontWeight": "{ds.typography.weight.body.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-l}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "book / book",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-l}",
+            "fontWeight": "{ds.typography.weight.body.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-l}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "tertiary": {
+          "$type": "typography",
+          "$description": "medium / medium",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-l}",
+            "fontWeight": "{ds.typography.weight.body.tertiary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-l}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "underline": {
+          "primary": {
+            "$type": "typography",
+            "$description": "regular / regular",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          }
+        }
+      },
+      "body-m": {
+        "primary": {
+          "$type": "typography",
+          "$description": "regular / regular",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-m}",
+            "fontWeight": "{ds.typography.weight.body.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-m}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "book / book",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-m}",
+            "fontWeight": "{ds.typography.weight.body.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-m}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "tertiary": {
+          "$type": "typography",
+          "$description": "medium / medium",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-m}",
+            "fontWeight": "{ds.typography.weight.body.tertiary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-m}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "underline": {
+          "primary": {
+            "$type": "typography",
+            "$description": "regular / regular",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          }
+        }
+      },
+      "body-s": {
+        "primary": {
+          "$type": "typography",
+          "$description": "regular / regular",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-s}",
+            "fontWeight": "{ds.typography.weight.body.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-s}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "book / book",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-s}",
+            "fontWeight": "{ds.typography.weight.body.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-s}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "tertiary": {
+          "$type": "typography",
+          "$description": "medium / medium",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-s}",
+            "fontWeight": "{ds.typography.weight.body.tertiary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-s}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "underline": {
+          "primary": {
+            "$type": "typography",
+            "$description": "Underline",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-s}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-s}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-s}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-s}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-s}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-s}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          }
+        }
+      },
+      "body-xs": {
+        "primary": {
+          "$type": "typography",
+          "$description": "regular / regular",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-xs}",
+            "fontWeight": "{ds.typography.weight.body.primary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-xs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "secondary": {
+          "$type": "typography",
+          "$description": "book / book",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-xs}",
+            "fontWeight": "{ds.typography.weight.body.secondary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-xs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "tertiary": {
+          "$type": "typography",
+          "$description": "medium / medium",
+          "$value": {
+            "fontFamily": "{ds.typography.family.primary}",
+            "fontSize": "{ds.typography.size.body-xs}",
+            "fontWeight": "{ds.typography.weight.body.tertiary}",
+            "letterSpacing": "{ds.typography.letter-spacing.base}",
+            "lineHeight": "{ds.typography.height.body-xs}",
+            "textTransform": "none",
+            "textDecoration": "none"
+          }
+        },
+        "underline": {
+          "primary": {
+            "$type": "typography",
+            "$description": "regular / regular",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-xs}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-xs}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-xs}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-xs}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-xs}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-xs}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        }
+      },
+      "link": {
+        "body-l": {
+          "primary": {
+            "$type": "typography",
+            "$description": "regular / regular",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-l}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-l}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          }
+        },
+        "body-m": {
+          "primary": {
+            "$type": "typography",
+            "$description": "regular / regular",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$description": "book / book",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$description": "medium / medium",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.body-m}",
+              "fontWeight": "{ds.typography.weight.body.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.base}",
+              "lineHeight": "{ds.typography.height.body-m}",
+              "textTransform": "none",
+              "textDecoration": "underline"
+            }
+          }
+        }
+      },
+      "currencies-figures": {
+        "colossal": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.colossal}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.colossal}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.colossal}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.colossal}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "huge": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.huge}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.huge}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.huge}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.huge}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "big": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.big}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.big}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.big}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.big}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "large": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.large}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.large}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.large}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.large}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "medium": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.medium}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.medium}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.medium}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.medium}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "small": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.small}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.small}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.small}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.small}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "nano": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "tiny": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "micro": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        }
+      },
+      "superscript": {
+        "colossal": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.colossal}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.colossal}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.colossal}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.colossal}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "huge": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.huge}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.huge}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.huge}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.huge}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "big": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.big}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.big}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.big}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.big}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "large": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.large}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.large}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.large}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.large}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "medium": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.medium}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.medium}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.medium}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.medium}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "small": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.small}",
+              "fontWeight": "{ds.typography.weight.currency.display.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.small}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.small}",
+              "fontWeight": "{ds.typography.weight.currency.display.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.small}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "tiny": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.tiny}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.tiny}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "micro": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.micro}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.micro}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        },
+        "nano": {
+          "primary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.primary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "secondary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.secondary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          },
+          "tertiary": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "{ds.typography.family.primary}",
+              "fontSize": "{ds.typography.size.currency.nano}",
+              "fontWeight": "{ds.typography.weight.currency.data.tertiary}",
+              "letterSpacing": "{ds.typography.letter-spacing.m}",
+              "lineHeight": "{ds.typography.height.currency.nano}",
+              "textTransform": "none",
+              "textDecoration": "none"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ds-grid-base": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#eccc7b80",
+        "gutterSize": "{ds.layout.gutter}",
+        "count": "{ds.layout.columns}",
+        "offset": "{ds.layout.margin}"
+      }
+    ]
+  }
+}

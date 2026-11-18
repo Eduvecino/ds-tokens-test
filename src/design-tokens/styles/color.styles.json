@@ -1,0 +1,25 @@
+{
+  "ds": {
+    "gradient": {
+      "bg": {
+        "black-image": {
+          "$type": "gradient",
+          "$value": {
+            "type": "linear",
+            "angle": 180,
+            "stops": [
+              {
+                "color": "{ds.color.gradient.primary.level-full}",
+                "position": 0
+              },
+              {
+                "color": "{ds.color.gradient.primary.level-none}",
+                "position": 0.44
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

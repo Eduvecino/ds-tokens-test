@@ -1,0 +1,125 @@
+{
+  "ds": {
+    "elevation": {
+      "combo-01": {
+        "$type": "shadow",
+        "$description": "Shadow and blur, for components that need special elevation to stand out to background.",
+        "$value": [
+          {
+            "backgroundBlur": true,
+            "blur": "{ds.blur.level-05}"
+          },
+          {
+            "offsetX": "0px",
+            "offsetY": "{ds.shadow.vertical.level-01}",
+            "blur": "{ds.shadow.blur.level-01}",
+            "spread": "{ds.shadow.spread.none}",
+            "color": "{ds.opacity.black.20}"
+          }
+        ]
+      },
+      "blur": {
+        "level-01": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "backgroundBlur": true,
+              "blur": "{ds.blur.level-01}"
+            }
+          ]
+        },
+        "level-02": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "backgroundBlur": true,
+              "blur": "{ds.blur.level-02}"
+            }
+          ]
+        },
+        "level-03": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "backgroundBlur": true,
+              "blur": "{ds.blur.level-03}"
+            }
+          ]
+        },
+        "level-04": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "backgroundBlur": true,
+              "blur": "{ds.blur.level-04}"
+            }
+          ]
+        }
+      },
+      "shadow": {
+        "level-01": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "offsetX": "0px",
+              "offsetY": "{ds.shadow.vertical.level-01}",
+              "blur": "{ds.shadow.blur.level-01}",
+              "spread": "{ds.shadow.spread.none}",
+              "color": "{ds.color.shadow.level-01}"
+            }
+          ]
+        },
+        "level-02": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "offsetX": "0px",
+              "offsetY": "{ds.shadow.vertical.level-02}",
+              "blur": "{ds.shadow.blur.level-04}",
+              "spread": "{ds.shadow.spread.none}",
+              "color": "{ds.color.shadow.level-02}"
+            }
+          ]
+        },
+        "level-02-top": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "offsetX": "0px",
+              "offsetY": "{ds.shadow.vertical.level-02-minus}",
+              "blur": "{ds.shadow.blur.level-04}",
+              "spread": "{ds.shadow.spread.none}",
+              "color": "{ds.color.shadow.level-02}"
+            }
+          ]
+        },
+        "level-03": {
+          "$type": "shadow",
+          "$value": [
+            {
+              "offsetX": "0px",
+              "offsetY": "{ds.shadow.vertical.level-04}",
+              "blur": "{ds.shadow.blur.level-08}",
+              "spread": "{ds.shadow.spread.level-02}",
+              "color": "{ds.color.shadow.level-03}"
+            }
+          ]
+        },
+        "accent": {
+          "level-01": {
+            "$type": "shadow",
+            "$value": [
+              {
+                "offsetX": "{ds.dimension.00}",
+                "offsetY": "{ds.dimension.00}",
+                "blur": "{ds.dimension.12}",
+                "spread": "{ds.dimension.00}",
+                "color": "{ds.color.shadow.accent.level-01}"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

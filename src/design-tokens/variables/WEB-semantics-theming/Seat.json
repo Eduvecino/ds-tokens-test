@@ -1,0 +1,297 @@
+{
+  "ds": {
+    "color": {
+      "surface": {
+        "patch": {
+          "base-01": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27961:2783",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "base-02": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27961:2784",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "born": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:387",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "formentor": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:388",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "leon": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:389",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "leon-sportstourer": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:47695:4800",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "terramar": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:390",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "ateca": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:391",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "tavascan": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:27988:392",
+              "com.figma.scopes": [
+                "SHAPE_FILL",
+                "EFFECT_COLOR"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "raval-01": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:40974:275",
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          },
+          "raval-02": {
+            "$type": "color",
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9098039269447327,
+                0.9098039269447327,
+                0.9098039269447327
+              ],
+              "alpha": 1,
+              "hex": "#E8E8E8"
+            },
+            "$extensions": {
+              "com.figma.variableId": "VariableID:40974:276",
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ],
+              "com.figma.aliasData": {
+                "targetVariableId": "VariableID:9eac46ce7d313e3d35ec7b7ff4394dec64cee7e3/70462:2588",
+                "targetVariableName": "ds/color/nevada-white/30",
+                "targetVariableSetId": "VariableCollectionId:79f90ec54cd62ccb3eb03c04f39e0b2852ae6104/64474:159",
+                "targetVariableSetName": "primitive"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Seat"
+  }
+}
